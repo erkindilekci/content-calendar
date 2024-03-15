@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Generate Random Data in Python",
+    "desc": "This article explores various methods for generating random data in Python.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2024-03-16T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Data Visualization Libraries for Python",
+    "desc": "Unsure which data visualization library to choose for your Python project? This article explores popular options.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2024-03-14T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": 3,
+    "title": "Master Machine Learning with TensorFlow",
+    "desc": "Become a machine learning expert by learning TensorFlow, a powerful open-source library.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2024-03-13T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": 4,
+    "title": "Build a Chatbot with Python",
+    "desc": "In this video tutorial, learn how to create your own chatbot using Python.",
+    "contentType": "VIDEO",
+    "dateCreated": "2024-03-12T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": 5,
+    "title": "Data Analysis with Pandas",
+    "desc": "Get started with data analysis using Pandas, a powerful library for data manipulation and cleaning.",
+    "contentType": "VIDEO",
+    "dateCreated": "2024-03-11T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  },
+  {
+    "id": 6,
+    "title": "Coding in the Mediterranean",
+    "desc": "Take a glimpse into a developer's paradise: coding while enjoying the beauty of the Mediterranean Sea.",
+    "contentType": "VIDEO",
+    "dateCreated": "2024-03-10T00:00:00.000000",
+    "dateUpdated": null,
+    "url": ""
+  }
+]
